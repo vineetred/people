@@ -3,3 +3,5 @@
 Keep adding your names to this list.
 
 * Dhruv Agarwal ([agdhruv](https://github.com/agdhruv))
+
+* Harsh Karamchandani ([harshk0525](https://github.com/harshk0525))
