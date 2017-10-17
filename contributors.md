@@ -4,4 +4,4 @@ Keep adding your names to this list.
 
 * Dhruv Agarwal ([agdhruv](https://github.com/agdhruv))
 
-* Mounika ([Mounika](https://github.com/kallepallimounikasmitha))
+* Mounika Smitha ([Mounika Smitha](https://github.com/kallepallimounikasmitha))
