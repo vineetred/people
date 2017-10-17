@@ -8,3 +8,5 @@ Keep adding your names to this list.
 * Roshan Salian ([RoshanSalian](https://github.com/RoshanSalian))
 * Aldo Cano ([aldocano](https://github.com/aldocano))
 * Aditya Yuvaraj ([Screwed-Up-Head](https://github.com/Screwed-Up-Head))
+* Gayathri ([Gayathrir1666](https://github.com/Gayathrir1666))
+
