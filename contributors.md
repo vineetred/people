@@ -3,4 +3,4 @@
 Keep adding your names to this list.
 
 * Dhruv Agarwal ([agdhruv](https://github.com/agdhruv))
-* Roshan Salian ([agdhruv](https://github.com/RoshanSalian))
+* Roshan Salian ([RoshanSalian](https://github.com/RoshanSalian))
