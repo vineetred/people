@@ -1,6 +1,6 @@
 people
 ======
-
+https://travis-ci.org/ayushkalani/people.svg?branch=master
 people is a fast and simple user page generator based on GitHub's [Jekyll](http://jekyllrb.com) page generation engine, designed to help students and faculty at [Ashoka University](http://ashoka.edu.in) create their own homepages without any hassle. people aims to help users create their own space on the internet in these easy steps:
 
 - Log in with their ashoka.edu.in account
