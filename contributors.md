@@ -3,7 +3,7 @@
 Keep adding your names to this list.
 
 * Dhruv Agarwal ([agdhruv](https://github.com/agdhruv))
-* Mayukh Nair ([mayukhnair])(https://github.com/mayukhnair)
+* Mayukh Nair ([mayukhnair](https://github.com/mayukhnair))
 * Harsh Karamchandani ([harshk0525](https://github.com/harshk0525))
 * Mounika Smitha ([Mounika Smitha](https://github.com/kallepallimounikasmitha))
 * Jaime Sánchez ([citec](https://github.com/citec))
