@@ -9,6 +9,6 @@ To contribute to people, you need to [fork the project to your repository](https
 
 The code of people will be maintained on two branches: `master`, which has the compiling stable code, and `dev`, which has the current codebase under development. For pull requests regarding code, please fork from `dev` and not `master`.
 
-All of your pull requests will be tested to work with the current codebase under `dev`, passed by an automated build system and then merged. Stable builds under `dev`, once successfully working, will be merged into `master`.
+All of your pull requests will be tested to work with the current codebase under `dev`, passed by an automated build system(Travis CPI) and then merged. Stable builds under `dev`, once successfully working, will be merged into `master`.
 
 For any doubts regarding the project or contributing to it, feel free to open an issue.
