@@ -8,7 +8,7 @@ people is a fast and simple user page generator based on GitHub's [Jekyll](http:
 - Add text and images for their pages
 - Hit "Generate"
 - ....
-- profit
+- profit from this
 
 To contribute to this project, please refer to `CONTRIBUTING.md`.
 
